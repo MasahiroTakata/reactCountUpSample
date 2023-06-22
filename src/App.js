@@ -10,7 +10,7 @@ function App() {
      <div>
       <p>You clicked {count} times</p>
       <button onClick={onClickButton}>
-        Click me
+        カウントアップ！
       </button>
     </div>
   );
